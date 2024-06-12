@@ -7,4 +7,5 @@ python
 redis
 rabbitmq
 mongo
-elasticsearch
+bitnami/pgpool
+bitnami/postgresql-repmgr
