@@ -1,1 +1,10 @@
 nginx
+mysql
+postgres
+nginx
+alpine
+python
+redis
+rabbitmq
+mongo
+elasticsearch
