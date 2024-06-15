@@ -10,3 +10,4 @@ mongo
 bitnami/pgpool
 bitnami/postgresql-repmgr
 rabbitmq:management
+python:3.12.3
