@@ -9,3 +9,4 @@ rabbitmq
 mongo
 bitnami/pgpool
 bitnami/postgresql-repmgr
+rabbitmq:management
