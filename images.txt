@@ -1,4 +1,6 @@
-elasticsearch:8.11.1
+elasticsearch:8.13.4
+elasticsearch:7.17.22
+elasticsearch:8.11.3
 elasticsearch:8.14.1
 nginx
 mysql
