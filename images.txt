@@ -1,4 +1,4 @@
-elasticsearch
+elasticsearch:8.14.1
 nginx
 mysql
 postgres
