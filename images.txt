@@ -1,4 +1,5 @@
 kibana:8.14.1
+kibana:8.13.4
 kibana:8.12.2
 kibana:8.11.3
 elasticsearch:8.12.2
