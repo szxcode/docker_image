@@ -1,4 +1,4 @@
-sipjs/sipjs
+freeswitch/freeswitch
 yidadaa/chatgpt-next-web
 jenkins/jenkins
 kibana:8.14.1
