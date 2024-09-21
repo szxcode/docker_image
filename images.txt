@@ -1,15 +1,1 @@
-alpine
-busybox
-nginx
-mysql
-postgres
-nginx
-python
-redis
-rabbitmq
-mongo
-traefik
-golang
-debian
-gradle
-python:3.12.3
+freetechsolutions/asterisk
