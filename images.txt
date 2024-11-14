@@ -1,4 +1,5 @@
 jenkins/jenkins
+jenkinsci/blueocean
 mysql
 python
 python:3.11.4
