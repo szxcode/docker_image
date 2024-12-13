@@ -1,8 +1,2 @@
-openjdk:8u171-jre-alpine
-jenkins/jenkins
-jenkinsci/blueocean
-mysql
-python
-python:3.11.4
-openjdk:17
-openjdk
+mysql:5.7.44
+
