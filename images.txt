@@ -2,3 +2,4 @@ mysql:latest
 nginx:latest
 apache/rocketmq:latest
 redis:latest
+postgres:17.5
